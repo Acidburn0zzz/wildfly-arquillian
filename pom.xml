@@ -41,7 +41,7 @@
     <properties>
         <version.org.wildfly.core>3.0.0.Final</version.org.wildfly.core>
         <version.org.wildfly.full>10.0.0.Final</version.org.wildfly.full>
-        <version.junit>4.12</version.junit>
+        <version.junit>4.13.1</version.junit>
         <version.org.jboss.arquillian.core>1.1.13.Final</version.org.jboss.arquillian.core>
         <version.org.wildfly.common.wildfly-common>1.2.0.Final</version.org.wildfly.common.wildfly-common>
         <version.org.wildfly.plugins.wildfly-maven-plugin>1.2.0.Final</version.org.wildfly.plugins.wildfly-maven-plugin>
